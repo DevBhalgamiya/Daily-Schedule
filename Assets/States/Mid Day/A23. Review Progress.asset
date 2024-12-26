@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd3f9a8b9bf1c54589aae45b493e31d, type: 3}
+  m_Name: A23. Review Progress
+  m_EditorClassIdentifier: 
+  storyText: "Review Today's Progress\r\n\r\nAs I sit down at my desk, the first
+    task is to review my progress. Notes, code snippets, and unfinished tasks help
+    me decide how to tackle the day ahead.\r\n\r\nWhat\u2019s my next focus area?\r\n1.
+    Dive into Game Development.\r\n2. Focus on MERN Stack Development.\r\n3. Exit."
+  nextStates:
+  - {fileID: 11400000, guid: e57681249ac4b8a4fb9942c2f853bfcd, type: 2}
+  - {fileID: 11400000, guid: bd7cbc84fb037a7499747c4cf03b143c, type: 2}
+  - {fileID: 11400000, guid: 4a3261bf5704a4848a14b8007b79c6d2, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd3f9a8b9bf1c54589aae45b493e31d, type: 3}
+  m_Name: A11. MERN Stack
+  m_EditorClassIdentifier: 
+  storyText: "MERN Stack \u2013 Building the Frontend & Backend\n\nIt\u2019s time
+    to dive into MERN Stack. My task for the day is to create a robust login system
+    with secure authentication. I pull up my code editor and get started.\n\nwhat's
+    next?\n\n1. Work on new feature in frontend and backend.\n2. Debug the issues
+    from yesterday.\n3. Exit."
+  nextStates:
+  - {fileID: 11400000, guid: e8925ddd8c1f3cd4790e8c16bc8e340e, type: 2}
+  - {fileID: 11400000, guid: c4fc81a6d08a02f488c619ef2e488b79, type: 2}
+  - {fileID: 11400000, guid: 4a3261bf5704a4848a14b8007b79c6d2, type: 2}

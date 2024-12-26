@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd3f9a8b9bf1c54589aae45b493e31d, type: 3}
+  m_Name: "A14. Debugging \u2013 Tackling Challenges 1"
+  m_EditorClassIdentifier: 
+  storyText: "Debugging \u2013 Tackling Challenges\r\n\r\nAs I dive into coding,
+    an unexpected bug appears. The error disrupts my workflow, but I\u2019m determined
+    to move forward.\r\n\r\nWhat\u2019s my next move?\r\n1. Fix the bug immediately
+    and continue coding with a clear slate.\r\n2. Make a detailed note of the bug
+    for later and proceed with other coding tasks.\n3. Exit."
+  nextStates:
+  - {fileID: 11400000, guid: 93c17ee5a0aa5894a8a0ff3941b056ba, type: 2}
+  - {fileID: 11400000, guid: 774faae9642bc6d4fadb08833b856c47, type: 2}
+  - {fileID: 11400000, guid: 4a3261bf5704a4848a14b8007b79c6d2, type: 2}

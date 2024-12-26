@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd3f9a8b9bf1c54589aae45b493e31d, type: 3}
+  m_Name: "A1. The Morning Challenge \u2013 Rise and Shine"
+  m_EditorClassIdentifier: 
+  storyText: "The Morning Challenge \u2013 Rise and Shine\r\n\r\nThe day begins at
+    7:00 AM. The alarm blares like a call to arms. I sit up in bed, my mind groggy
+    but filled with ambition.\r\n\r\nWhat do you do?\r\n\r\n1. Wake up and start
+    freshening up.\r\n\r\n2. Hit snooze and sleep for 10 more minutes.\n\n3. Exit."
+  nextStates:
+  - {fileID: 11400000, guid: 3fec69b0aeab7e34d902baa164b7ec7c, type: 2}
+  - {fileID: 11400000, guid: 887954cdbb98b1f4288013f4c7b0c44c, type: 2}
+  - {fileID: 11400000, guid: 4a3261bf5704a4848a14b8007b79c6d2, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd3f9a8b9bf1c54589aae45b493e31d, type: 3}
+  m_Name: A12. Game Development Debugging
+  m_EditorClassIdentifier: 
+  storyText: "Game Development Debugging\r\n\r\nAs I push forward with new features,
+    an unexpected bug arises. It disrupts my progress, but I'm focused on finding
+    a solution and keeping the momentum going.\r\n\r\nWhat\u2019s the next step?\r\n\r\n1. 
+    As I dive into coding, an unexpected bug appears.\n2. Exit."
+  nextStates:
+  - {fileID: 11400000, guid: c4fc81a6d08a02f488c619ef2e488b79, type: 2}
+  - {fileID: 11400000, guid: 4a3261bf5704a4848a14b8007b79c6d2, type: 2}

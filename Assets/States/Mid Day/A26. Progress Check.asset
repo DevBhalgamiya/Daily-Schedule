@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd3f9a8b9bf1c54589aae45b493e31d, type: 3}
+  m_Name: A26. Progress Check
+  m_EditorClassIdentifier: 
+  storyText: "Task Progress Check\n\r\nTwo hours into coding, it\u2019s time to evaluate
+    your progress.\r\n\r\nIs your task complete?\r\n\r\n1. Yes, take a break and
+    head for dinner.\r\n2. No, continue coding until you finish.\n3. Exit."
+  nextStates:
+  - {fileID: 11400000, guid: b81710080e9876e4494ef7a74f5d0ff5, type: 2}
+  - {fileID: 11400000, guid: 93488f88e9be5a1449220c5df54f7e33, type: 2}
+  - {fileID: 11400000, guid: 4a3261bf5704a4848a14b8007b79c6d2, type: 2}
